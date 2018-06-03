@@ -29,7 +29,7 @@ export default {
 };
 </script>
 ```
-子组件通过prop配置监听父组件传进来的v-model
+子组件通过model设置回调事件，然后监听自己组件变量的变化向model的事件进行通知
 ```js
 <template>
     <div style="border:1px solid">
