@@ -6,6 +6,7 @@ vue入坑之旅
 * [vue的prop双向绑定](./src/prop)
 * [vue插件开发案例](./src/yi-clock)
 * [vscode扩展插件](./src/vscode)
+* 更多
 
 ## 优化方案
 * [vue首屏加载优化方案一](https://segmentfault.com/a/1190000010042512)
